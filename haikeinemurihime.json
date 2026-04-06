@@ -5,32 +5,8 @@
   "author": "Fumio Aya",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx208127-N6kvvngrBLxM.png",
   "chapters": {
-    "1": {
-      "title": "1",
-      "volume": "",
-      "last_updated": "1775494719",
-      "groups": {
-        "Meatloaf Scans + CyanideIE": [
-          "https://i.postimg.cc/qvQGHyjC/HNM-00-translated.png",
-          "https://i.postimg.cc/pLPBSqQ1/HNM-01-translated.png",
-          "https://i.postimg.cc/9QcBkJPg/HNM-02-translated.png",
-          "https://i.postimg.cc/pLPBSqYH/HNM-03-translated.png",
-          "https://i.postimg.cc/QdSqZ10X/HNM-04-translated.png",
-          "https://i.postimg.cc/4xw1RVBg/HNM-05-translated.png",
-          "https://i.postimg.cc/bwqR53HP/HNM-06-translated.png",
-          "https://i.postimg.cc/Qdjqz0kZ/HNM-07-translated.png",
-          "https://i.postimg.cc/dVn9cr4F/HNM-08-translated.png",
-          "https://i.postimg.cc/cLTcGwX0/HNM-09-translated.png",
-          "https://i.postimg.cc/4xw1RVBv/HNM-10-translated.png",
-          "https://i.postimg.cc/13MK1wJg/HNM-11-translated.png",
-          "https://i.postimg.cc/htM0RTpz/HNM-12-translated.png",
-          "https://i.postimg.cc/BnJCzM5R/HNM-13-translated.png",
-          "https://i.postimg.cc/BnJCzM5h/HNM-14-credits.png"
-        ]
-      }
-    },
     "2": {
-      "title": "2",
+      "title": "1",
       "volume": "",
       "last_updated": "1775495916",
       "groups": {

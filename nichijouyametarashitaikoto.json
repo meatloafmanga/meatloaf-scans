@@ -1,0 +1,81 @@
+{
+  "title": "Nichijou Yametara Shitai Koto",
+  "description": "A collection of various yuri one-shot/doujin works from Yukiko.\n\n1. Cry for the Moon\n2. Pink for Tear\n3. Ano Ko to Nakayoku Naru Houhou (あの子と仲良くなる方法)\n4. Idol Yametara Shitai Koto (アイドルやめたらしたいこと)\n5. Ouji-sama tte Yobanaide (王子様って呼ばないで)\n6. Shirotae-sama, Himitsu desu yo (白妙様、秘密ですよ)\n7-8. Aozora ni Shiro Ribbon (青空に白リボン)\n9. Ashita Me ga Sametara (あした目が醒めたら)",
+  "artist": "Yukiko",
+  "author": "Yukiko",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188126-tL1ZQDLmAXwx.png",
+  "chapters": {
+    "1": {
+      "title": "Cry for the Moon",
+      "volume": "1",
+      "last_updated": "1776431068",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/m9yx5p88p7q"
+      }
+    },
+    "2": {
+      "title": "Pink for Tear",
+      "volume": "1",
+      "last_updated": "1776431177",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/ljyqmpr2d72"
+      }
+    },
+    "3": {
+      "title": "How to Get Along With That Girl",
+      "volume": "1",
+      "last_updated": "1776431207",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/ej7mjpl8a7d"
+      }
+    },
+    "4": {
+      "title": "What I Want to do Once I Stop Being an Idol",
+      "volume": "1",
+      "last_updated": "1776431285",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/9249mnp387n"
+      }
+    },
+    "5": {
+      "title": "Don't Call Me a Prince",
+      "volume": "1",
+      "last_updated": "1776431333",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/vj4j5pge978"
+      }
+    },
+    "6": {
+      "title": "It's a Secret, Shirotae-sama",
+      "volume": "1",
+      "last_updated": "1776431346",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/6eyr3kmalyp"
+      }
+    },
+    "7": {
+      "title": "white ribbon against the blue sky 1",
+      "volume": "1",
+      "last_updated": "1776431399",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/xny8rn5ew4b"
+      }
+    },
+    "8": {
+      "title": "white ribbon against the blue sky 2",
+      "volume": "1",
+      "last_updated": "1776431449",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/5xy2x58o34l"
+      }
+    },
+    "9": {
+      "title": "TOMORROW, WHEN I WAKE UP",
+      "volume": "1",
+      "last_updated": "1776431472",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/qb4zl28pl7j"
+      }
+    }
+  }
+}

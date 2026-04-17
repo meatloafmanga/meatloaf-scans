@@ -1,0 +1,49 @@
+{
+  "title": "Adachi to Shimamura Koushiki Comic Anthology",
+  "description": "First official comic anthology for the much-discussed Adachi to Shimamura!\nIruma Hitoma's popular novel series Adachi to Shimamura now in comic anthology form!",
+  "artist": "",
+  "author": "",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126841-mXh7TAi1ESQN.jpg",
+  "chapters": {
+    "4": {
+      "title": "Adachi's Shiritori Limit",
+      "volume": "",
+      "last_updated": "1776425765",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/6eyr3kveeyp"
+      }
+    },
+    "5": {
+      "title": "Second Cosmic Speed",
+      "volume": "",
+      "last_updated": "1776425823",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/agyvgp239y8"
+      }
+    },
+    "7": {
+      "title": "Swapping Roles",
+      "volume": "",
+      "last_updated": "1776425875",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/na7k2po9q78"
+      }
+    },
+    "8": {
+      "title": "Gravity",
+      "volume": "",
+      "last_updated": "1776425925",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/vj4j5p9x278"
+      }
+    },
+    "9": {
+      "title": "Holding Hands",
+      "volume": "",
+      "last_updated": "1776425959",
+      "groups": {
+        "Meatloaf Scans": "/proxy/api/imgchest/chapter/pg732armz4r"
+      }
+    }
+  }
+}

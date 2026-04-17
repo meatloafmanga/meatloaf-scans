@@ -1,0 +1,24 @@
+{
+  "title": "Jp chapter for verification, will be removed once submission is accepted",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1776449654",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/vQStwmH0/01.jpg",
+          "https://i.postimg.cc/HpP91LsZ/02.jpg",
+          "https://i.postimg.cc/jsj41fKP/03.jpg",
+          "https://i.postimg.cc/D2zPNGFG/04.jpg",
+          "https://i.postimg.cc/5xtSrz1w/05.jpg",
+          "https://i.postimg.cc/CFKs28YD/06.jpg"
+        ]
+      }
+    }
+  }
+}
